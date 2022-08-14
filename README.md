@@ -24,9 +24,9 @@ updated on 2022-08-09
 - Hugo, blog theme, [ [getting-started] ](https://gohugo.io/getting-started/)
   - [config](https://gohugo.io/getting-started/configuration/) 
   - [shortcodes](https://gohugo.io/content-management/shortcodes/) 
-  - [templates](https://gohugo.io/templates/)
   - theme
     > Typically a theme repository on GitHub has a README file, which also serves as the documentation of the theme. After you read it, the next file to look for is config.toml under the exampleSite directory, which contains sample configurations for a website based on this theme. If a theme does not have a README file or exampleSite directory, you probably should not use it. <br> --- [blogdown](https://bookdown.org/yihui/blogdown/themes.html) ---
+  - [templates](https://gohugo.io/templates/)
 - 
 - bookdown, posts [ [LINK] ](https://bookdown.org/)
 - rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
