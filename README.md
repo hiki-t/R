@@ -18,3 +18,17 @@ updated on 2022-08-09
 - c
 
 
+
+## How to R-Blog with blogdown
+- blogdown, rpackage for rmd-based blog [ [LINK] ](https://bookdown.org/yihui/blogdown/)
+- Hugo, blog theme, [ [getting-started] ](https://gohugo.io/getting-started/)
+  - [config](https://gohugo.io/getting-started/configuration/) 
+  - [shortcodes](https://gohugo.io/content-management/shortcodes/) 
+  - shortcodes
+- 
+- bookdown, posts [ [LINK] ](https://bookdown.org/)
+- rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
+- 
+
+
+
