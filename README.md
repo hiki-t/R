@@ -13,7 +13,8 @@ updated on 2022-08-09
 
 
 ## Cheat sheets
-- https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf
+- [rmarkdown](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf)
+  - ![image](https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/rmarkdown.png)
 - b
 - c
 
