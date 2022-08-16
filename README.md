@@ -36,7 +36,7 @@ updated on 2022-08-09
     - giff images, plots, etc [ [LINK] ](https://blogdown-demo.rbind.io/2018/01/31/gif-animations/)
     - reactive plots [ [LINK] ](https://hrbrmstr.github.io/metricsgraphics/)
     - interactive tables and plots [ [LINK] ](https://blogdown-demo.rbind.io/2017/09/07/adding-htmlwidgets-to-r-markdown-posts/)
-    - 
+    - DT - 2.8, interactive table, esp filter a column [ [LINK] ](https://rstudio.github.io/DT/)
 - bookdown, posts [ [LINK] ](https://bookdown.org/)
 - rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
 
@@ -47,15 +47,9 @@ Getting Started with RPubs
 - https://cran.r-project.org/web/packages/rpubs/readme/README.html
 - fix errors --> https://github.com/r-lib/textshaping/issues/21
 
-
 Nice r-blog examples with blogdown
 - https://www.apreshill.com/
 - https://malco.io/
 - https://theory.ucr.edu/flip/
 - https://www.andreashandel.com/
 - 
-
-
-
-
-
