@@ -36,8 +36,10 @@ updated on 2022-08-09
     - giff images, plots, etc [ [LINK] ](https://blogdown-demo.rbind.io/2018/01/31/gif-animations/)
     - reactive plots [ [LINK] ](https://hrbrmstr.github.io/metricsgraphics/)
     - interactive tables and plots [ [LINK] ](https://blogdown-demo.rbind.io/2017/09/07/adding-htmlwidgets-to-r-markdown-posts/)
-    - DT - 2.8, interactive table, esp filter a column [ [LINK] ](https://rstudio.github.io/DT/)
     - HTML widget gallery [ [LINK] ](http://gallery.htmlwidgets.org/)
+      - DT - 2.8, interactive table, esp filter a column [ [LINK] ](https://rstudio.github.io/DT/)
+      - highcharter - [ [LINK] ](https://jkunst.com/highcharter/)
+        - gallery [ [LINK] ](https://www.highcharts.com/demo)
 - bookdown, posts [ [LINK] ](https://bookdown.org/)
 - rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
 
