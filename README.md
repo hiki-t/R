@@ -34,7 +34,9 @@ updated on 2022-08-09
 - interactive function, [ [See Yihui Xie's comment] ](https://stackoverflow.com/questions/46136141/incorporating-interactive-shiny-apps-into-rmarkdown-document-for-blogdown-hugo-b)
   - blogdown DEMO [ [LINK] ](https://blogdown-demo.rbind.io/about/)
     - giff images, plots, etc [ [LINK] ](https://blogdown-demo.rbind.io/2018/01/31/gif-animations/)
+    - reactive plots [ [LINK] ](https://hrbrmstr.github.io/metricsgraphics/)
     - interactive plots [ [LINK] ](https://blogdown-demo.rbind.io/2017/09/07/adding-htmlwidgets-to-r-markdown-posts/)
+    - 
 - bookdown, posts [ [LINK] ](https://bookdown.org/)
 - rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
 
@@ -46,7 +48,7 @@ Getting Started with RPubs
 - fix errors --> https://github.com/r-lib/textshaping/issues/21
 
 
-Nice r-blogs with blogdown
+Nice r-blog examples with blogdown
 - https://www.apreshill.com/
 - https://malco.io/
 - https://theory.ucr.edu/flip/
