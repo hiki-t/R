@@ -30,7 +30,7 @@ updated on 2022-08-09
     > Typically a theme repository on GitHub has a README file, which also serves as the documentation of the theme. After you read it, the next file to look for is config.toml under the exampleSite directory, which contains sample configurations for a website based on this theme. If a theme does not have a README file or exampleSite directory, you probably should not use it. <br> --- [blogdown](https://bookdown.org/yihui/blogdown/themes.html) ---
   - [templates](https://gohugo.io/templates/)
     > The most important directories of a theme are layouts/ and static/. HTML templates are stored under layouts/, and assets are stored under static/. <br> --- [blogdown](https://bookdown.org/yihui/blogdown/templates.html) ---
-- chunk options for r codes (eg ```{r fig.height=4} ) [ [LINK] ](https://yihui.org/knitr/options/)
+- `knitr` chunk options for r codes (eg ```{r fig.height=4} ) [ [LINK] ](https://yihui.org/knitr/options/)
 - bookdown, posts [ [LINK] ](https://bookdown.org/)
 - rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
 - 
