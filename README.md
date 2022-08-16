@@ -42,3 +42,4 @@ test gif images
 
 <iframe src="https://giphy.com/embed/lKXEBR8m1jWso" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-squarepants-thinking-patrick-lKXEBR8m1jWso">via GIPHY</a></p>
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xUOxf7XfmpxuSode1O" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/broadcity-comedy-central-season-4-xUOxf7XfmpxuSode1O">via GIPHY</a></p>
