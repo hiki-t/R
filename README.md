@@ -37,4 +37,8 @@ updated on 2022-08-09
     - interactive plots [ [LINK] ](https://blogdown-demo.rbind.io/2017/09/07/adding-htmlwidgets-to-r-markdown-posts/)
 - bookdown, posts [ [LINK] ](https://bookdown.org/)
 - rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
-- 
+
+
+
+
+
