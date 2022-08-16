@@ -32,9 +32,13 @@ updated on 2022-08-09
     > The most important directories of a theme are layouts/ and static/. HTML templates are stored under layouts/, and assets are stored under static/. <br> --- [blogdown](https://bookdown.org/yihui/blogdown/templates.html) ---
 - `knitr` chunk options for r codes (eg ```{r fig.height=4} ) [ [LINK] ](https://yihui.org/knitr/options/)
 - interactive function, [ [See Yihui Xie's comment] ](https://stackoverflow.com/questions/46136141/incorporating-interactive-shiny-apps-into-rmarkdown-document-for-blogdown-hugo-b)
+  - blogdown DEMO [ [LINK] ](https://blogdown-demo.rbind.io/about/)
+    - 
 - bookdown, posts [ [LINK] ](https://bookdown.org/)
 - rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
 - 
 
+test gif images
 
+<iframe src="https://giphy.com/embed/lKXEBR8m1jWso" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-squarepants-thinking-patrick-lKXEBR8m1jWso">via GIPHY</a></p>
 
