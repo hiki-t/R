@@ -38,6 +38,14 @@ updated on 2022-08-09
 - bookdown, posts [ [LINK] ](https://bookdown.org/)
 - rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
 
+Getting Started with RPubs
+- https://rpubs.com/
+- Getting Started with RPubs --> https://rpubs.com/about/getting-started
+- how to extract rpubs --> https://cran.r-project.org/web/packages/rpubs/readme/README.html
+- https://cran.r-project.org/web/packages/rpubs/readme/README.html
+- fix errors --> https://github.com/r-lib/textshaping/issues/21
+
+
 Nice r-blogs with blogdown
 - https://www.apreshill.com/
 - https://malco.io/
