@@ -38,6 +38,13 @@ updated on 2022-08-09
 - bookdown, posts [ [LINK] ](https://bookdown.org/)
 - rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
 
+Nice r-blogs with blogdown
+- https://www.apreshill.com/
+- https://malco.io/
+- https://theory.ucr.edu/flip/
+- https://www.andreashandel.com/
+- 
+
 
 
 
