@@ -35,7 +35,7 @@ updated on 2022-08-09
   - blogdown DEMO [ [LINK] ](https://blogdown-demo.rbind.io/about/)
     - giff images, plots, etc [ [LINK] ](https://blogdown-demo.rbind.io/2018/01/31/gif-animations/)
     - reactive plots [ [LINK] ](https://hrbrmstr.github.io/metricsgraphics/)
-    - interactive plots [ [LINK] ](https://blogdown-demo.rbind.io/2017/09/07/adding-htmlwidgets-to-r-markdown-posts/)
+    - interactive tables and plots [ [LINK] ](https://blogdown-demo.rbind.io/2017/09/07/adding-htmlwidgets-to-r-markdown-posts/)
     - 
 - bookdown, posts [ [LINK] ](https://bookdown.org/)
 - rbind, r-related blog/community [ [LINK] ](https://github.com/rbind)
